@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Recycle</string>
+    <string name="name_placeholder">Name</string>
+    <string name="album_placeholder">Album</string>
+    <string name="song_placeholder">Song</string>
+
+    <string-array name="music_names">
+        <item>.Paak</item>
+        <item>Andre 3000</item>
+        <item>Thundercat</item>
+        <item>Toro Y Moi</item>
+        <item>Wiz Khalifa</item>
+    </string-array>
+
+    <string-array name="music_album">
+        <item>OxNard</item>
+        <item>The Love Below</item>
+        <item>Drunk</item>
+        <item>Boo Boo</item>
+        <item>Kush and Oj</item>
+    </string-array>
+
+    <string-array name="music_song">
+        <item>6 Summer</item>
+        <item>Roses</item>
+        <item>Friend Zone</item>
+        <item>Buffalo</item>
+        <item>Paper Planes</item>
+    </string-array>
+</resources>
